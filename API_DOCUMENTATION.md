@@ -1,6 +1,6 @@
 # E-commerce API Documentation
 
-## 🚀 Project Overview
+
 
 This is a complete Django REST API for an e-commerce system with the following features:
 - **JWT-based authentication**
@@ -11,7 +11,7 @@ This is a complete Django REST API for an e-commerce system with the following f
 - **Advanced filtering and pagination**
 - **Admin interface for management**
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Setup & Installation](#setup--installation)
 2. [Authentication](#authentication)
@@ -35,7 +35,7 @@ This is a complete Django REST API for an e-commerce system with the following f
 git clone <repository>
 cd ecommerce_api
 python -m venv new_venv
-source new_venv/bin/activate  # On Windows: .\new_venv\Scripts\Activate.ps1
+source new_venv/bin/activate  
 ```
 
 2. **Install dependencies:**
